@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0de5460-23c2-422c-8c69-85b0b67ed367" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/WebstormProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASE-STUDY-MD2/.idea/CASE-STUDY-MD2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thuc-hanh-giai-phuong-trinh-bac-nhat/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug-chuong-trinh-tim-bien-so-xe-ha-noi/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuc-hanh-doc-noi-dung-file/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuc-hanh-doc-noi-dung-file/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tim-diem-trung-binh-cua-hoc-sinh-nam-va-nu/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tim-so-lon-nhat-trong-mang/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tim-thu-trong-tuan-cua-ngay-hien-tai/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-2/.idea/MODULE-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-2/Week-1/Employee/Employee.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-2/case-study/.idea/case-study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-2/week-3/.idea/week-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-2/week-3/NextDayCalculator/.idea/NextDayCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-2/week-3/test3/.idea/test3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-2/week-3/test4/.idea/test4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/.idea/MODULE-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/Week-1/.idea/Week-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/Week-1/Bài-1/.idea/Bài-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/Week-1/Bài-1/Doc-noi-dung-file/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/Week-1/Bài-1/Doc-noi-dung-file/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/Week-1/Bài-1/debug-chuong-trinh/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/Week-1/Bài-1/demo-doc-file/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/Week-1/Bài-1/giai-phuong-trinh/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/Week-1/Bài-1/tim-so-lon-nhat-trong-mang/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/Week-1/bai-4/.idea/bai-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/Week-1/bai-4/[Thực hành] Xây dựng chức năng đăng ký user và hiển thị ra user vừa đăng ký/.idea/[Thực hành] Xây dựng chức năng đăng ký user và hiển thị ra user vừa đăng ký.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/Week-1/bai-5/.idea/bai-5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/Week-1/bài-3/.idea/bài-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai 11/.idea/bai 11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-14/ [Thực hành] Tạo ứng dụng lưu lại thông tin khách hàng./.idea/ [Thực hành] Tạo ứng dụng lưu lại thông tin khách hàng..iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-14/ [Thực hành] Tạo ứng dụng lưu lại thông tin khách hàng./createdb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-14/ [Thực hành] Tạo ứng dụng lưu lại thông tin khách hàng./index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-14/ [Thực hành] Tạo ứng dụng lưu lại thông tin khách hàng./package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-14/.idea/bai-13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-14/[Thực hành] Truy vấn dữ liệu khách hàng. /index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-15/.idea/bai-15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-15/[Thực hành] Xây dựng chức năng &quot;Remember Me&quot;: Sử dụng Cookie trong Node/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-15/[Thực hành] Xây dựng chức năng &quot;Remember Me&quot;: Sử dụng Cookie trong Node/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-15/[Thực hành] Xây dựng chức năng đăng nhập: Tạo session trong Node.js /app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-15/[Thực hành] Xây dựng chức năng đăng nhập: Tạo session trong Node.js /veiw/homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-15/[Thực hành] Xây dựng chức năng đăng nhập: Tạo session trong Node.js /veiw/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-15/[Thực hành] Xây dựng chức năng đăng nhập: Tạo session trong Node.js /veiw/notfound.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-15/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-15/demo-cookie-login/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-15/demo-cookie-login/veiw/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-15/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-15/veiws/homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-15/veiws/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-15/veiws/notfound.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-6/.idea/bai-6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-6/Lấy query string trong HTTP Requests /index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-6/Xây dựng cơ chế routing cho ứng dụng web trong Node.js 1/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-6/[Thực hành] Truyền dữ liệu sang Template HTML /server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-6/[Thực hành] Truyền dữ liệu sang Template HTML /template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-6/[Thực hành] Xây dựng ứng dụng NodeJS phục vụ HTML Template /server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-6/[Thực hành] Xây dựng ứng dụng NodeJS phục vụ HTML Template /template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-7/ Xây dựng chức năng thêm mới thông tin khách hàng /data/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-7/ Xây dựng chức năng thêm mới thông tin khách hàng /server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-7/ Xây dựng chức năng thêm mới thông tin khách hàng /template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-7/.idea/bai-7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-7/Xây dựng ứng dụng danh sách khách hàng (hiển thị danh sách đọc từ file text)/data/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-7/Xây dựng ứng dụng danh sách khách hàng (hiển thị danh sách đọc từ file text)/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-7/Xây dựng ứng dụng danh sách khách hàng (hiển thị danh sách đọc từ file text)/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-7/Xây dựng ứng dụng quản lý sản phẩm - P1 /data/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-7/Xây dựng ứng dụng quản lý sản phẩm - P1 /server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-7/Xây dựng ứng dụng quản lý sản phẩm - P1 /template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-7/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bai-8/.idea/bai-8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bài-16/.idea/bài-16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bài-16/16.1-[Thực hành] Xây dựng ứng dụng chat đơn giản/public/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bài-16/16.1-[Thực hành] Xây dựng ứng dụng chat đơn giản/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bài-16/16.1-[Thực hành] Xây dựng ứng dụng chat đơn giản/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bài-16/16.2[Thực hành] Xây dựng ứng dụng Todo List realtime/.idea/16.2[Thực hành] Xây dựng ứng dụng Todo List realtime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bài-16/16.2[Thực hành] Xây dựng ứng dụng Todo List realtime/Todolist-realtime/Server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bài-16/16.2[Thực hành] Xây dựng ứng dụng Todo List realtime/Todolist-realtime/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bài-16/16.2[Thực hành] Xây dựng ứng dụng Todo List realtime/Todolist-realtime/public/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bài-16/16.2[Thực hành] Xây dựng ứng dụng Todo List realtime/Todolist-realtime/template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bài-16/16.3 [Thực hành] Xây dựng tính năng hiển thị danh sách người dùng trực tuyến (online/.idea/16.3 [Thực hành] Xây dựng tính năng hiển thị danh sách người dùng trực tuyến (online.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bài-16/16.3 [Thực hành] Xây dựng tính năng hiển thị danh sách người dùng trực tuyến (online/chat-online/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bài-16/16.3 [Thực hành] Xây dựng tính năng hiển thị danh sách người dùng trực tuyến (online/chat-online/public/cript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bài-16/16.3 [Thực hành] Xây dựng tính năng hiển thị danh sách người dùng trực tuyến (online/chat-online/public/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bài-16/16.3 [Thực hành] Xây dựng tính năng hiển thị danh sách người dùng trực tuyến (online/chat-online/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bài-16/16.3 [Thực hành] Xây dựng tính năng hiển thị danh sách người dùng trực tuyến (online/chat-online/template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bài-16/16.3 [Thực hành] Xây dựng tính năng hiển thị danh sách người dùng trực tuyến (online/chat-online/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bài-16/16.4 [Bài tập] Xây dựng ứng dụng đếm lượt vote realtime /public/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bài-16/16.4 [Bài tập] Xây dựng ứng dụng đếm lượt vote realtime /server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bài-16/16.4 [Bài tập] Xây dựng ứng dụng đếm lượt vote realtime /veiw/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MODULE-3/bài-16/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/.idea/Module-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/[Thực hành] Ứng dụng quản lý sản phẩm - Thêm mới và danh sách sản phẩm /.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/[Thực hành] Ứng dụng quản lý sản phẩm - Thêm mới và danh sách sản phẩm /.idea/[Thực hành] Ứng dụng quản lý sản phẩm - Thêm mới và danh sách sản phẩm .iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/[Thực hành] Ứng dụng quản lý sản phẩm - Thêm mới và danh sách sản phẩm /.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/[Thực hành] Ứng dụng quản lý sản phẩm - Thêm mới và danh sách sản phẩm /.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/[Thực hành] Ứng dụng quản lý sản phẩm - Thêm mới và danh sách sản phẩm /index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/[Thực hành] Ứng dụng quản lý sản phẩm - Thêm mới và danh sách sản phẩm /src/data-source.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/[Thực hành] Ứng dụng quản lý sản phẩm - Thêm mới và danh sách sản phẩm /src/entity/Product.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/[Thực hành] Ứng dụng quản lý sản phẩm - Thêm mới và danh sách sản phẩm /src/views/create.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/[Thực hành] Ứng dụng quản lý sản phẩm - Thêm mới và danh sách sản phẩm /src/views/list.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/[Thực hành] Ứng dụng quản lý sản phẩm - Thêm mới và danh sách sản phẩm /src/views/success.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/[Thực hành] Ứng dụng quản lý sản phẩm - Thêm mới và danh sách sản phẩm /tsconfig.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/[Thực hành] Ứng dụng quản lý sản phẩm - Thêm mới và danh sách sản phẩm /tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-1/[Thực hành] Xây dựng trang hiển thị danh sách hình ảnh. /.idea/[Thực hành] Xây dựng trang hiển thị danh sách hình ảnh. .iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-1/[Thực hành] Xây dựng trang hiển thị danh sách hình ảnh. /index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-1/[Thực hành] Xây dựng trang hiển thị danh sách hình ảnh. /views/home.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-1/[Thực hành] Xây dựng trang đọc tin tức đơn giản. /.idea/[Thực hành] Xây dựng trang đọc tin tức đơn giản. .iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-1/[Thực hành] Xây dựng trang đọc tin tức đơn giản. /index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-1/[Thực hành] Xây dựng trang đọc tin tức đơn giản. /package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-1/[Thực hành] Xây dựng trang đọc tin tức đơn giản. /views/home.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-1/[Thực hành] Xây dựng ứng dụng ExpressJS &quot;Hello World!&quot;. /index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-1/[Thực hành] Xây dựng ứng dụng đăng ký /.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-1/[Thực hành] Xây dựng ứng dụng đăng ký /.idea/[Thực hành] Xây dựng ứng dụng đăng ký .iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-1/[Thực hành] Xây dựng ứng dụng đăng ký /app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-1/[Thực hành] Xây dựng ứng dụng đăng ký /package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-1/[Thực hành] Xây dựng ứng dụng đăng ký /package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-1/[Thực hành] Xây dựng ứng dụng đăng ký /views/err.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-1/[Thực hành] Xây dựng ứng dụng đăng ký /views/register.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-1/[Thực hành] Xây dựng ứng dụng đăng ký /views/success.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-2/.idea/bai-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-2/[Thực hành] Xây dựng ứng dụng quản lý sách - Thêm sách /.idea/[Thực hành] Xây dựng ứng dụng quản lý sách - Thêm sách .iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-2/[Thực hành] Xây dựng ứng dụng quản lý sách - Thêm sách /app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-2/[Thực hành] Xây dựng ứng dụng quản lý sách - Thêm sách /controller/BookManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-2/[Thực hành] Xây dựng ứng dụng quản lý sách - Thêm sách /model/ConnectMysql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-2/[Thực hành] Xây dựng ứng dụng quản lý sách - Thêm sách /model/booksModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-2/[Thực hành] Xây dựng ứng dụng quản lý sách - Thêm sách /model/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-2/[Thực hành] Xây dựng ứng dụng quản lý sách - Thêm sách /package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-2/[Thực hành] Xây dựng ứng dụng quản lý sách - Thêm sách /routes/add.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-2/[Thực hành] Xây dựng ứng dụng quản lý sách - Thêm sách /routes/list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-2/[Thực hành] Xây dựng ứng dụng quản lý sách - Thêm sách /views/create.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-2/[Thực hành] Xây dựng ứng dụng quản lý sách - Thêm sách /views/list.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-2/[Thực hành] Xây dựng ứng dụng quản lý sách - Thêm sách /views/success.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/.idea/bai-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Bài đọc] Cấu hình dự án ExpressJS bằng typescript /dataConect.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Bài đọc] Cấu hình dự án ExpressJS bằng typescript /index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Bài đọc] Cấu hình dự án ExpressJS bằng typescript /tsconfig.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Bài đọc] Khái niệm Migration và ứng dụng trong quản lý CSDL của ứng dụng / tsconfig.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Bài đọc] Khái niệm Migration và ứng dụng trong quản lý CSDL của ứng dụng /.idea/[Bài đọc] Khái niệm Migration và ứng dụng trong quản lý CSDL của ứng dụng .iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Bài đọc] Khái niệm Migration và ứng dụng trong quản lý CSDL của ứng dụng /migration.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Bài đọc] Khái niệm Migration và ứng dụng trong quản lý CSDL của ứng dụng /package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Bài đọc] Khái niệm Migration và ứng dụng trong quản lý CSDL của ứng dụng /tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Bài đọc] Sử dụng TypeORM / tsconfig.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Bài đọc] Sử dụng TypeORM /.idea/[Bài đọc] Sử dụng TypeORM .iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Bài đọc] Sử dụng TypeORM /Entity/scr/User.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Bài đọc] Sử dụng TypeORM /data-source.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Bài đọc] Sử dụng TypeORM /index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Bài đọc] Sử dụng TypeORM /package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Bài đọc] Sử dụng TypeORM /tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Thực hành] Ứng dụng quản lý danh bạ - Thêm mới và danh sách danh bạ. /index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Thực hành] Ứng dụng quản lý danh bạ - Thêm mới và danh sách danh bạ. /src/Entity/PhoneBook.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Thực hành] Ứng dụng quản lý danh bạ - Thêm mới và danh sách danh bạ. /src/data-source.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Thực hành] Ứng dụng quản lý danh bạ - Thêm mới và danh sách danh bạ. /src/views/create.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Thực hành] Ứng dụng quản lý danh bạ - Thêm mới và danh sách danh bạ. /src/views/list.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Thực hành] Ứng dụng quản lý danh bạ - Thêm mới và danh sách danh bạ. /src/views/success.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Thực hành] Ứng dụng quản lý danh bạ - Thêm mới và danh sách danh bạ. /tsconfig.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-3/[Thực hành] Ứng dụng quản lý danh bạ - Thêm mới và danh sách danh bạ. /tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/bai-4/xay-dung-API-cho-ung-dung-quan-ly-san-pham/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module-4/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MDLesson8/.idea/Cau-truc-dieu-kien1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP1/demo-class-mobile/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP1/demo-date/Date.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai-luyen-mang-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai-luyen-mang-1/.idea/bai-luyen-mang-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai-luyen-mang-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai-luyen-mang-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai-luyen-mang-1/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai-luyen-mang-1/bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai-luyen-mang-1/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai-luyen-mang-1/bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai-luyen-mang-1/bai5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai-luyen-mang-1/bai6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai-luyen-mang-1/bai7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai-luyen-mang-1/bai8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai-luyen-mang-1/bai9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai-luyen-mang-1/second-max-in-array.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case-ball-game/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case-ball-game/.idea/case-ball-game.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case-ball-game/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case-ball-game/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case-ball-game/game..." beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson6.7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson6.7/.idea/MD1.JS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson6.7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson6.7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson6.7/index3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson8/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson9/.idea/demo-loop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled1/.idea/untitled1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled1/my.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2BTKf5ySFcDw0D4zI077q7xYBcQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0de5460-23c2-422c-8c69-85b0b67ed367" name="Changes" comment="" />
+      <created>1656924734571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656924734571</updated>
+      <workItem from="1656924735649" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
